@@ -1,5 +1,5 @@
 # WhatsappWeb-Spam
-Este script te permite enviar una gran cantidad de mensajes de manera rapida desde WhatsappWeb
+Este script te permite enviar una gran cantidad de mensajes de manera rapida desde WhatsappWeb.
 <br/>
 <br/>
 <h2> Instalación </h2>
